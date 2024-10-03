@@ -1,0 +1,29 @@
+abcdef 
+
+Binario 01
+
+numerico 0123456789ABCDEF
+
+hexadecimal 0123456789ABCDEF 
+RGB = Red Green Blue
+
+# _ _ _ _ _ _
+0= ausencia 
+
+F = maximo 
+
+#000000
+
+#FFFFFF
+
+#FF0000
+RED
+BLUE
+YELLOW
+
+RGB 0,1,2,3,...255
+
+0 = AUSENCIA
+255 = MAXIMO
+rgb (255,255,255)
+rgb (0,0,255)
